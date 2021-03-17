@@ -1,1 +1,1 @@
-<img src="https://bigheid.github.io/images/bigheid.jpg" />
+<img src="https://bigheid.github.io/images/bigheid.JPG" style="zoom:100%;" />
